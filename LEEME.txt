@@ -1,0 +1,15 @@
+ATAQUE CHICAS COCODRILO — juego instalable
+
+Todos los archivos van sueltos, sin carpetas. Para publicarlo en GitHub Pages:
+
+1. En github.com crea un repositorio nuevo, público, por ejemplo "chicas-cocodrilo".
+2. Toca "uploading an existing file", selecciona TODOS estos archivos (Ctrl+A) y arrástralos.
+   No subas el .zip: GitHub no lo descomprime. Guarda con "Commit changes".
+3. Ve a Settings > Pages. En "Branch" elige "main" y "/ (root)" y toca Save.
+4. En uno o dos minutos queda en: https://TU-USUARIO.github.io/chicas-cocodrilo/
+
+Para instalarlo:
+- iPhone: abre el link en Safari > Compartir > "Agregar a inicio".
+- Android: abre el link en Chrome > menú ⋮ > "Instalar app".
+
+Para publicar una versión nueva: sube los archivos nuevos encima de los anteriores.
